@@ -10,8 +10,8 @@ const data = [
     id: 1,
     image: IMG1,
     title: 'This Portfolio Website',
-    github: 'https://github.com',
-    demo: 'https://google.com'
+    github: 'https://github.com/poulNA/Personal-Projects/tree/main/portfolio/portfoliowebsite',
+    demo: 'https://pauljeong.netlify.app/'
   },
   {
     id: 2,
@@ -25,14 +25,14 @@ const data = [
     image: IMG3,
     title: 'Course Directory App',
     github: 'https://github.com/poulNA/CourseProjects/tree/main/Course%20Directory%20App',
-    demo: 'https://google.com'
+    demo: ''
   },
   {
     id: 4,
     image: IMG4,
     title: ' San Francisco Road Map',
-    github: 'https://github.com',
-    demo: 'https://google.com'
+    github: 'https://github.com/poulNA/CourseProjects/tree/main/San%20Francisco%20Road%20Map',
+    demo: 'https://github.com/poulNA/CourseProjects/blob/main/San%20Francisco%20Road%20Map/README.md'
   }
 ]
 

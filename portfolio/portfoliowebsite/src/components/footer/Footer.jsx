@@ -16,8 +16,8 @@ const Foot = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://facebook.com"><BsFacebook/></a>
-        <a href="https://instagram.com"><FaInstagram/></a>
+        <a href="https://www.facebook.com/pauljeong25/" target='_blank'><BsFacebook/></a>
+        <a href="https://www.instagram.com/pauljeong/" target={'_blank'}><FaInstagram/></a>
       </div>
 
       <div className="footer__copyright">
